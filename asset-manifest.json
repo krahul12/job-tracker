@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/krahul12/job-tracker.git/static/css/main.605612c5.css",
+    "main.js": "/krahul12/job-tracker.git/static/js/main.31b8851a.js",
+    "static/js/453.2e7905f3.chunk.js": "/krahul12/job-tracker.git/static/js/453.2e7905f3.chunk.js",
+    "index.html": "/krahul12/job-tracker.git/index.html",
+    "main.605612c5.css.map": "/krahul12/job-tracker.git/static/css/main.605612c5.css.map",
+    "main.31b8851a.js.map": "/krahul12/job-tracker.git/static/js/main.31b8851a.js.map",
+    "453.2e7905f3.chunk.js.map": "/krahul12/job-tracker.git/static/js/453.2e7905f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.605612c5.css",
+    "static/js/main.31b8851a.js"
+  ]
+}
